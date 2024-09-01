@@ -54,7 +54,6 @@ app.get('/shop/alldata', (req, res) => {
         productPrice: 78.00,
         pQuantity: 1
     }, {
-        
         id: 8,
         productImage: "images/product-3.png",
         productName: "Ergonomic Chair",
